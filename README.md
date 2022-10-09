@@ -28,8 +28,8 @@ https://wallchain.netlify.app
 * `npx hardhat compile`
 * `npx hardhat run ./scripts/deploys.ts <local or matic>
   
-## To run the tests: 
-* npx hardhat test
+Run tests: 
+* `npx hardhat test`
 
 ### Team behind the project:
 * Arnaud Desvachez
