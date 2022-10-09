@@ -6,6 +6,12 @@ Cryptomurals is a blockchain-based platform focused on promoting and preserving 
 
 Our mission is to preserve the cultural heritage with interactive web3 dApps and bring artists and active citizens together to build inclusive environments in public spaces!
 
+# PLEASE NOTE 
+* If you want to pull the project done, use the following link 
+* https://github.com/ng-rgb/wallchain
+* or
+* https://github.com/ng-rgb/wallchain.git
+
 ## Live Demo 
 https://wallchain.netlify.app
 *Please view on mobile, this was meant to run on a mobile device, or view in mobile view within devtools
