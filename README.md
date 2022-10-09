@@ -11,6 +11,7 @@ Our mission is to preserve the cultural heritage with interactive web3 dApps and
 * https://github.com/ng-rgb/wallchain
 * or
 * https://github.com/ng-rgb/wallchain.git
+* This is do to a mirrored repo that was necessary to add to our github organization & deploy on netlify
 
 ## Live Demo 
 https://wallchain.netlify.app
@@ -22,6 +23,7 @@ https://wallchain.netlify.app
 * Hardhat 
 * NFT.Storage/IPFS
 * Google Maps API
+* Deployed on Netlify
 
 ## How to Run front end 
 * `git clone https://github.com/ng-rgb/wallchain.git`
@@ -34,7 +36,7 @@ https://wallchain.netlify.app
 * `git clone https://github.com/ng-rgb/wallchain.git`
 * `npm i` 
 * `npx hardhat compile`
-* `npx hardhat run ./scripts/deploys.ts <local or matic>
+* `npx hardhat run ./scripts/deploys.ts <local or matic>`
   
 Run tests: 
 * `npx hardhat test`
