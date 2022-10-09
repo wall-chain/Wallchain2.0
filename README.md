@@ -24,12 +24,14 @@ https://wallchain.netlify.app
 * Google Maps API
 
 ## How to Run front end 
+* `git clone https://github.com/ng-rgb/wallchain.git`
 * `npm i`
 * `npm start`
 * Will start on local:3000 *please view on mobile*
 * Please note, you will need a google token to pass into the .env 
 
 ## How to run the 1155 factory 
+* `git clone https://github.com/ng-rgb/wallchain.git`
 * `npm i` 
 * `npx hardhat compile`
 * `npx hardhat run ./scripts/deploys.ts <local or matic>
