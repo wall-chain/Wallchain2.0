@@ -24,9 +24,9 @@ https://wallchain.netlify.app
 * Please note, you will need a google token to pass into the .env 
 
 ## How to run the 1155 factory 
-* npm i 
-* npx hardhat compile
-* npx hardhat run ./scripts/deploys.ts <local or matic>
+* `npm i` 
+* `npx hardhat compile`
+* `npx hardhat run ./scripts/deploys.ts <local or matic>
   
 ## To run the tests: 
 * npx hardhat test
@@ -35,4 +35,4 @@ https://wallchain.netlify.app
 * Arnaud Desvachez
 * Robbie Kruszynski 
 * Clay Garnett
-* Nats 
+* 0xNats 
